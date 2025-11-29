@@ -34,7 +34,7 @@
                                 <option value="">Choose a client...</option>
                                 {% for client in potential_clients %}
                                 <option value="{{ client.client_id }}">
-                                    {{ client.user.first_name }} {{ client.user.last_name }} - {{ client.user.email }}
+                                    {{ client.first_name }} {{ client.last_name }} - {{ client.email }}
                                 </option>
                                 {% endfor %}
                             </select>
