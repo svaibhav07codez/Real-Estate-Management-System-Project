@@ -527,11 +527,11 @@ INSERT INTO Users (email, password_hash, first_name, last_name, phone, user_type
 ('agent1@realestate.com', '8f6fac57ac61a809c8a7b6501a07eb5e4bfea26de6dffd781d7794b6091166d7cfd92554974361dca53b91bd09fc4f10313fea50f15b9d00954bd336522c3ec7', 'Sarah', 'Johnson', '555-0101', 'agent'),
 ('agent2@realestate.com', '8f6fac57ac61a809c8a7b6501a07eb5e4bfea26de6dffd781d7794b6091166d7cfd92554974361dca53b91bd09fc4f10313fea50f15b9d00954bd336522c3ec7', 'Michael', 'Smith', '555-0102', 'agent'),
 ('agent3@realestate.com', '8f6fac57ac61a809c8a7b6501a07eb5e4bfea26de6dffd781d7794b6091166d7cfd92554974361dca53b91bd09fc4f10313fea50f15b9d00954bd336522c3ec7', 'Emily', 'Davis', '555-0103', 'agent'),
-('client1@email.com', 'd339a67eaa601fb9ef125bb1e2703bb9e32cff758885bb605bd77177b924f7141fe1519ceed450b966b65d450cebb28962f3823672230dfd7a3eeb60fb74f0d2', 'David', 'Wilson', '555-0104', 'client'),
-('client2@email.com', 'd339a67eaa601fb9ef125bb1e2703bb9e32cff758885bb605bd77177b924f7141fe1519ceed450b966b65d450cebb28962f3823672230dfd7a3eeb60fb74f0d2', 'Jennifer', 'Brown', '555-0105', 'client'),
-('client3@email.com', 'd339a67eaa601fb9ef125bb1e2703bb9e32cff758885bb605bd77177b924f7141fe1519ceed450b966b65d450cebb28962f3823672230dfd7a3eeb60fb74f0d2', 'Robert', 'Taylor', '555-0106', 'client'),
-('client4@email.com', 'd339a67eaa601fb9ef125bb1e2703bb9e32cff758885bb605bd77177b924f7141fe1519ceed450b966b65d450cebb28962f3823672230dfd7a3eeb60fb74f0d2', 'Lisa', 'Anderson', '555-0107', 'client'),
-('client5@email.com', 'd339a67eaa601fb9ef125bb1e2703bb9e32cff758885bb605bd77177b924f7141fe1519ceed450b966b65d450cebb28962f3823672230dfd7a3eeb60fb74f0d2', 'James', 'Martinez', '555-0108', 'client'),
+('client1@realestate.com', 'd339a67eaa601fb9ef125bb1e2703bb9e32cff758885bb605bd77177b924f7141fe1519ceed450b966b65d450cebb28962f3823672230dfd7a3eeb60fb74f0d2', 'David', 'Wilson', '555-0104', 'client'),
+('client2@realestate.com', 'd339a67eaa601fb9ef125bb1e2703bb9e32cff758885bb605bd77177b924f7141fe1519ceed450b966b65d450cebb28962f3823672230dfd7a3eeb60fb74f0d2', 'Jennifer', 'Brown', '555-0105', 'client'),
+('client3@realestate.com', 'd339a67eaa601fb9ef125bb1e2703bb9e32cff758885bb605bd77177b924f7141fe1519ceed450b966b65d450cebb28962f3823672230dfd7a3eeb60fb74f0d2', 'Robert', 'Taylor', '555-0106', 'client'),
+('client4@realestate.com', 'd339a67eaa601fb9ef125bb1e2703bb9e32cff758885bb605bd77177b924f7141fe1519ceed450b966b65d450cebb28962f3823672230dfd7a3eeb60fb74f0d2', 'Lisa', 'Anderson', '555-0107', 'client'),
+('client5@realestate.com', 'd339a67eaa601fb9ef125bb1e2703bb9e32cff758885bb605bd77177b924f7141fe1519ceed450b966b65d450cebb28962f3823672230dfd7a3eeb60fb74f0d2', 'James', 'Martinez', '555-0108', 'client'),
 ('agent4@realestate.com', '8f6fac57ac61a809c8a7b6501a07eb5e4bfea26de6dffd781d7794b6091166d7cfd92554974361dca53b91bd09fc4f10313fea50f15b9d00954bd336522c3ec7', 'Amanda', 'Garcia', '555-0109', 'agent');
 
 -- Insert PropertyTypes
