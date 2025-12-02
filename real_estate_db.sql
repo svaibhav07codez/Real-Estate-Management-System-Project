@@ -1,5 +1,5 @@
 -- Real Estate Database Management System
--- MySQL Schema with Tables, Procedures, Functions, Triggers
+-- MySQL Schema with Tables - 10, Procedures - three, Functions - three, Triggers - three, Views - 2 which helps run our application efficiently
 
 DROP DATABASE IF EXISTS real_estate_db;
 CREATE DATABASE real_estate_db;
